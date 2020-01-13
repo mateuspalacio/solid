@@ -11,12 +11,19 @@ Exemplo:
 2
 
 Nome: Loretta
+
 Tipo: Cachorro
+
 Idade: 4
+
 Meio de locomoção: Andar com 4 patas
+
 
 1
 
+
 Nome: Mickey
+
 Tipo: Rato
+
 Idade: 92
